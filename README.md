@@ -37,10 +37,11 @@ def fun():
 fun()
 ```
 ## task
+```
 #include<stdio.h>
 int main()
 {
 printf("hello apssdc");
 return 0;
-
+```
 
