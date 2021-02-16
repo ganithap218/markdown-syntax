@@ -46,7 +46,8 @@ return 0;
 ```
 ## links
 [markdown]([title](https://www.example.com)
-
+## inserting images
+![pic](https://github.com/ganithap218/markdown-syntax/blob/master/cutie.jpg)
 
 
 
